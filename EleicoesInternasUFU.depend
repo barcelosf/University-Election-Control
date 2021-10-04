@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1633354054 source:/home/felipe/Documentos/UFU/1SEMESTRE/Introducao_Programacao-Computadores/Trabalhos/TrabalhoPratico/EleicoesInternasUFU/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
